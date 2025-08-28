@@ -1,4 +1,6 @@
-class Solution {
+
+import java.util.*;
+public class sortedAndrotated {
     public boolean check(int[] nums) {
         int len=nums.length;
         int deviations=0;
